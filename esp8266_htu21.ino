@@ -5,9 +5,9 @@
 
 #define CONTROL_PIN D7
 
-char auth[] = "JTX0UsGH4KiNDbThk0NfrFeTqI8fo90v";
+char auth[] = "***********************";
 char ssid[] = "7SkyHome";
-char pass[] = "89191532537";
+char pass[] = "**********************";
  
 void setup()
 {
